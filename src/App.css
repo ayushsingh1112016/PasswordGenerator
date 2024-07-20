@@ -1,0 +1,6 @@
+/* Add this to your App.css or main stylesheet */
+::selection {
+    background-color: #2fbceb; /* Light blue color for selection highlight */
+    color: rgba(255, 255, 255, 0.786) /* Color of the selected text */
+  }
+  
